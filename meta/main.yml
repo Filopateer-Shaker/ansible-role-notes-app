@@ -1,0 +1,30 @@
+---
+galaxy_info:
+  author: Filopateer Shaker
+  description: Automated deployment of Flask Notes App on Amazon Linux 2023
+  company: 
+  
+  license: MIT
+  
+  min_ansible_version: "2.9"
+  
+  platforms:
+    - name: Amazon
+      versions:
+        - 2023
+    - name: EL
+      versions:
+        - 10
+  
+  galaxy_tags:
+    - flask
+    - deployment
+    - automation
+    - web
+    - python
+    - mariadb
+    - ec2
+    - aws
+    - devops
+
+dependencies: []
